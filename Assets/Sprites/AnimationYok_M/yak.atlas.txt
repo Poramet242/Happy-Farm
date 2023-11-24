@@ -1,0 +1,320 @@
+yak.png
+size:2048,2048
+filter:Linear,Linear
+pma:true
+GCM001F/front arm L bot
+bounds:1985,35,61,132
+GCM001F/front head
+bounds:1533,1132,477,460
+GCM002F/Front arm L top
+bounds:2003,1967,43,79
+GCM002F/front head
+bounds:1511,1594,490,452
+GCM003F/front head
+bounds:476,282,471,440
+GCM003F/front hood
+bounds:1241,60,211,104
+rotate:90
+GCM004F/front body
+bounds:1622,27,180,227
+GCM004F/front head
+bounds:2,1541,517,505
+GCM005F/front arm L bot
+bounds:1241,6,52,104
+rotate:90
+GCM005F/front body
+bounds:475,17,302,263
+GCM005F/front head
+bounds:521,1152,507,426
+GCM006F/front body
+bounds:969,43,228,270
+rotate:90
+GCM006F/front head
+bounds:1030,1144,501,435
+GCM007F/front arm L bot
+bounds:268,14,64,131
+rotate:90
+GCM007F/front arm R bot
+bounds:2,4,74,130
+rotate:90
+GCM007F/front head
+bounds:512,724,507,426
+GCM008F/front head
+bounds:2,1061,508,478
+GCM009F/Front arm L top
+bounds:2003,1884,42,81
+GCM009F/front body
+bounds:1347,47,207,273
+rotate:90
+GCM009F/front head
+bounds:2,80,479,471
+rotate:90
+GCM010F/front body
+bounds:1805,420,231,283
+GCM010F/front head
+bounds:1517,705,492,425
+GCM011F/front head
+bounds:1029,1581,480,465
+GCM012F/front body layer
+bounds:1805,169,237,249
+GCM012F/front head
+bounds:521,1580,466,506
+rotate:90
+GCM013F/front body
+bounds:779,2,188,269
+GCM013F/front head
+bounds:1021,694,494,448
+GCM014F/front arm R bot
+bounds:134,10,68,132
+rotate:90
+GCM014F/front head
+bounds:949,273,457,419
+GCM014F/front leg R
+bounds:1895,2,88,165
+GCM015F/front head
+bounds:2,561,472,498
+GCM015F/front inner hood
+bounds:1408,256,436,395
+rotate:90
+GCM015F/front leg R
+bounds:1804,2,89,165
+
+yak_2.png
+size:2048,1024
+filter:Linear,Linear
+pma:true
+GCM001F/Front arm L top
+bounds:531,2,53,98
+GCM001F/Front arm R top
+bounds:728,570,61,105
+GCM001F/front arm R bot
+bounds:615,204,61,122
+rotate:90
+GCM001F/front body
+bounds:2,490,199,272
+GCM001F/front leg L
+bounds:267,58,83,163
+GCM001F/front leg R
+bounds:293,576,89,172
+GCM002F/Front arm R top
+bounds:282,2,54,89
+rotate:90
+GCM002F/front arm L bot
+bounds:1397,773,59,122
+rotate:90
+GCM002F/front arm R bot
+bounds:1646,765,63,119
+rotate:90
+GCM002F/front body
+bounds:2,764,222,258
+GCM002F/front leg L
+bounds:352,58,83,163
+GCM002F/front leg R
+bounds:203,400,89,172
+GCM003F/Front arm L top
+bounds:791,557,65,118
+GCM003F/Front arm R top
+bounds:739,177,61,117
+GCM003F/front arm L bot
+bounds:767,487,68,115
+rotate:90
+GCM003F/front arm R bot
+bounds:1028,769,64,121
+rotate:90
+GCM003F/front body
+bounds:226,837,185,279
+rotate:90
+GCM003F/front leg L
+bounds:90,53,91,172
+GCM003F/front leg R
+bounds:1792,840,93,172
+rotate:90
+GCM004F/Front arm L top
+bounds:437,96,79,114
+GCM004F/Front arm R top
+bounds:893,699,70,106
+rotate:90
+GCM004F/front arm L bot
+bounds:982,592,57,105
+GCM004F/front arm R bot
+bounds:681,423,62,118
+rotate:90
+GCM004F/front leg L
+bounds:476,267,84,154
+GCM004F/front leg R
+bounds:380,253,94,158
+GCM005F/Front arm L top
+bounds:801,423,62,100
+rotate:90
+GCM005F/Front arm R top
+bounds:518,102,83,108
+GCM005F/front arm R bot
+bounds:919,589,61,108
+GCM005F/front leg L
+bounds:562,267,84,154
+GCM005F/front leg R
+bounds:648,267,81,154
+GCM006F/Front arm L top
+bounds:485,4,44,90
+GCM006F/Front arm R top
+bounds:1110,704,63,102
+rotate:90
+GCM006F/front arm L bot
+bounds:802,180,55,115
+GCM006F/front arm R bot
+bounds:1151,770,63,120
+rotate:90
+GCM006F/front leg L
+bounds:380,413,89,161
+GCM006F/front leg R
+bounds:1960,677,86,161
+GCM007F/Front arm L top
+bounds:90,2,49,91
+rotate:90
+GCM007F/Front arm R top
+bounds:1226,611,58,95
+GCM007F/front body
+bounds:1313,834,188,245
+rotate:90
+GCM007F/front headphone
+bounds:1792,935,227,87
+GCM007F/front leg L
+bounds:471,423,83,159
+GCM007F/front leg R
+bounds:469,584,89,164
+GCM008F/Front arm L top
+bounds:732,131,44,89
+rotate:90
+GCM008F/Front arm R top
+bounds:1966,840,57,93
+GCM008F/front arm L bot
+bounds:1397,714,57,115
+rotate:90
+GCM008F/front arm R bot
+bounds:903,771,63,123
+rotate:90
+GCM008F/front body
+bounds:1046,835,187,265
+rotate:90
+GCM008F/front leg L
+bounds:294,223,84,174
+GCM008F/front leg R
+bounds:560,657,89,164
+rotate:90
+GCM009F/Front arm R top
+bounds:183,2,54,97
+rotate:90
+GCM009F/front arm L bot
+bounds:1273,771,61,122
+rotate:90
+GCM009F/front arm R bot
+bounds:586,12,66,117
+rotate:90
+GCM009F/front leg L
+bounds:294,399,84,175
+GCM009F/front leg R
+bounds:203,229,89,169
+GCM010F/Front arm L top
+bounds:843,683,48,88
+GCM010F/Front arm R top
+bounds:1214,708,60,96
+rotate:90
+GCM010F/front arm L bot
+bounds:798,297,55,124
+GCM010F/front arm R bot
+bounds:556,423,62,123
+rotate:90
+GCM010F/front leg L
+bounds:384,578,83,170
+GCM010F/front leg R
+bounds:203,574,88,174
+GCM011F/Front arm L top
+bounds:1286,610,46,96
+GCM011F/Front arm R top
+bounds:1167,600,57,102
+GCM011F/front arm L bot
+bounds:1521,770,58,123
+rotate:90
+GCM011F/front arm R bot
+bounds:603,138,64,127
+rotate:90
+GCM011F/front body
+bounds:2,227,199,261
+GCM011F/front leg L
+bounds:226,750,85,178
+rotate:90
+GCM011F/front leg R
+bounds:2,45,86,180
+GCM012F/Front arm L top
+bounds:731,81,48,88
+rotate:90
+GCM012F/Front arm R top
+bounds:1856,689,64,102
+rotate:90
+GCM012F/front arm L bot
+bounds:1629,702,61,112
+rotate:90
+GCM012F/front arm R bot
+bounds:859,187,66,113
+GCM012F/front body
+bounds:1560,830,192,230
+rotate:90
+GCM012F/front leg L
+bounds:556,487,81,161
+rotate:90
+GCM012F/front leg R
+bounds:576,748,85,166
+rotate:90
+GCM013F/Front arm L top
+bounds:858,571,59,110
+GCM013F/Front arm R top
+bounds:1041,598,63,103
+GCM013F/front arm L bot
+bounds:1743,696,57,111
+rotate:90
+GCM013F/front arm R bot
+bounds:855,302,64,119
+GCM013F/front leg L
+bounds:406,750,83,168
+rotate:90
+GCM013F/front leg R
+bounds:560,570,85,166
+rotate:90
+GCM014F/Front arm L top
+bounds:476,212,53,137
+rotate:90
+GCM014F/Front arm R top
+bounds:777,773,61,124
+rotate:90
+GCM014F/front arm L bot
+bounds:1514,712,56,113
+rotate:90
+GCM014F/front body
+bounds:777,836,186,267
+rotate:90
+GCM014F/front leg L
+bounds:1792,755,83,166
+rotate:90
+GCM015F/Front arm L top
+bounds:437,2,46,92
+GCM015F/Front arm R top
+bounds:726,677,69,115
+rotate:90
+GCM015F/front arm L bot
+bounds:603,80,56,126
+rotate:90
+GCM015F/front arm R bot
+bounds:731,296,65,125
+GCM015F/front body
+bounds:507,835,187,268
+rotate:90
+GCM015F/front leg L
+bounds:183,58,82,167
+Object/bua
+bounds:1106,596,105,59
+rotate:90
+Object/trim
+bounds:719,487,46,81
+Object/water
+bounds:1001,703,64,107
+rotate:90

@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5395f0ac4715855439bd6a9c4a2903cd, type: 3}
+  m_Name: Friend_2
+  m_EditorClassIdentifier: 
+  playerTokenID: 02
+  playerName: Player02
+  playerURLImage: 
+  playerLocalImage: {fileID: 21300000, guid: fa2e71e1773f76c4eadc29727ed3de88, type: 3}
+  playerLevel: 6
+  countCoin: 30150
+  countCoinNFT: 412
+  unlockZone: 000000
+  all_unitdatalist: []
+  all_unitAssisstanDetail: []

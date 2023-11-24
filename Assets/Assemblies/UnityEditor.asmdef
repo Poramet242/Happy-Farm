@@ -1,0 +1,16 @@
+{
+    "name": "UnityEditor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:784e79ee06b27ae498553908ef919f0e"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

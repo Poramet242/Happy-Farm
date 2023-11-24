@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0fdfe05958926134daf2cbab09077dbd, type: 3}
+  m_Name: Ms.C
+  m_EditorClassIdentifier: 
+  _unitWork: 1
+  _unitTokenID: 0
+  _unitName: Ms.C
+  _unitImageID: 
+  _unitPos: 0
+  _skill: 0
+  _unitTimeAssis: 0
+  _zonePos: 0
+  _unitLocalImage: {fileID: 21300000, guid: 1f3c40f940d67e24fbea373480524d48, type: 3}
+  _rarityType: 3
+  _unitPrefab: {fileID: 8883380365286217158, guid: 9ffe8483bf4a89b4282c26c660598278, type: 3}

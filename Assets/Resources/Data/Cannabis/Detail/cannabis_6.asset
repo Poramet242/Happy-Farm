@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1303ec340ab5c0d44b6c029fd8f1ae00, type: 3}
+  m_Name: cannabis_6
+  m_EditorClassIdentifier: 
+  _planeNFT: 0
+  _unitTokenID: 6
+  _unitName: sativa_f
+  _unitURLImage: 
+  _unitPos: 0
+  _zonePos: 0
+  _growthPlante: 0
+  _speciesType: 4
+  _unitLocalImage: {fileID: 21300000, guid: b841cee3b213a004abe74e18428c02cd, type: 3}
+  _plant_Image: {fileID: 1185955447, guid: 3be8cfbf9602763468b16a271988ec13, type: 3}
+  _rarityType: 0
+  _unitData: {fileID: 11400000, guid: d7c2bce986865cc448e1a9921a092b2c, type: 2}
+  _unitStaking: 0
+  _unitPrefab: {fileID: 9197366332590000901, guid: 1987faa2ed64dfa43a01970e02f680dc, type: 3}
+  _unitAnimator: {fileID: 9100000, guid: d3f496ed09b08114481a6b55b9bd136d, type: 2}

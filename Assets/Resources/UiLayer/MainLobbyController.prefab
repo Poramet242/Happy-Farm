@@ -1,0 +1,136 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &7543890102624678441
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7543890102624678443}
+  - component: {fileID: 7543890102624678442}
+  - component: {fileID: 7543890102624678436}
+  - component: {fileID: 8073281795271120464}
+  - component: {fileID: 4925145950672522000}
+  m_Layer: 0
+  m_Name: MainLobbyController
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7543890102624678443
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7543890102624678441}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &7543890102624678442
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7543890102624678441}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 80bae170f8577894a81d45ea791fa46d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  zone: 1
+  m_shopping: {fileID: 0}
+  m_inventory: {fileID: 0}
+  m_assistants: {fileID: 0}
+  m_friend: {fileID: 0}
+  m_zone: {fileID: 0}
+  m_spin: {fileID: 0}
+  m_recruitAssistant: {fileID: 0}
+  m_profile: {fileID: 0}
+  m_setting: {fileID: 0}
+  m_CalculateTimeObject: {fileID: 0}
+  PanelSystemcall: {fileID: 0}
+--- !u!114 &7543890102624678436
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7543890102624678441}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3ef604507161c29478e29267cb26d3ba, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _assistantsRarityFrame:
+  - {fileID: 21300000, guid: cf7ab0c22659b874ba4c253f20a8201e, type: 3}
+  - {fileID: 21300000, guid: 42f545da4b6cd7c438982e291da602ff, type: 3}
+  - {fileID: 21300000, guid: 59e0b969575e8314ab112991e2173358, type: 3}
+  - {fileID: 21300000, guid: 0eeeba014fbbdf348a4216193f76d47e, type: 3}
+  - {fileID: 21300000, guid: d7063333fbb5c5b4bb8f03ece8aa58b6, type: 3}
+  - {fileID: 21300000, guid: 84f2927fa1d1dbf4f8a97d89cc05ce56, type: 3}
+  - {fileID: 21300000, guid: 534dbd95bf01f894b9ce9ef2370bcd71, type: 3}
+  - {fileID: 21300000, guid: a6cdaa1ce2b8dd2429d03dbf0517bf3d, type: 3}
+  - {fileID: 21300000, guid: 5ec9c7652bafb784cacdfcf779a8ddf8, type: 3}
+  - {fileID: 21300000, guid: d15d8aebc907cd147b50326711381d15, type: 3}
+  - {fileID: 21300000, guid: c2d3ce739d4918e42813cfc8eac54edb, type: 3}
+  - {fileID: 21300000, guid: 8d7ece448e2b12d4086b1b803c8b2c86, type: 3}
+  - {fileID: 21300000, guid: 2f07825260b69844394cb526b8f116aa, type: 3}
+  - {fileID: 21300000, guid: 7234eb1b15649094093b0f2f0b152ca3, type: 3}
+  - {fileID: 21300000, guid: 7378d2c08bcbf3a43b87e4e5c0eef89e, type: 3}
+  _plantsRarityFrame:
+  - {fileID: 21300000, guid: fc6f4ffc462bf3c46beba92394bf1a4e, type: 3}
+  - {fileID: 21300000, guid: 969e7563c5b49024390b8cd4ccfb2405, type: 3}
+  - {fileID: 21300000, guid: b6ea6a83bf84b3f41b7e8721e090c7dd, type: 3}
+  _plantsIcon: []
+  _seed_Img: {fileID: 21300000, guid: 135de7ad6ed2d1d4bb4a35f9d5d44d9f, type: 3}
+  _babey_Img: {fileID: 21300000, guid: f070953ad1ed828468dcd0637ad1672f, type: 3}
+  _Rotted_Img: {fileID: 21300000, guid: 6c0f9164ef0fc804b880c1eacf87f2e5, type: 3}
+  _honor_img:
+  - {fileID: 21300000, guid: 88455fd0539c6264682e7a26929df2b2, type: 3}
+  - {fileID: 21300000, guid: 5dfc9c0b39672dc489cec57bd2ddfb8a, type: 3}
+  - {fileID: 21300000, guid: 0853f8406e49b10419a65b6382c34c63, type: 3}
+--- !u!114 &8073281795271120464
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7543890102624678441}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 598a0c201ef3bf748b7ed479a329ab81, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _thisZone: 0
+  actived_color: {r: 0, g: 0, b: 0, a: 0}
+  check_Skill_increase_Coin: 0
+  check_Skill_increase_EXP: 0
+  check_Skill_extendperiod_PlantGold_GrowTime: 0
+  check_Skill_increase_PlantStack: 0
+  check_Skill_sale_PriceGachaPlant: 0
+  check_Skill_sale_Sale_PriceFunitrue: 0
+  check_Skill_sale_Sale_PriceBlock: 0
+  check_Skill_speed_GrowTime: 0
+  checkonce: 0
+--- !u!114 &4925145950672522000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7543890102624678441}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 83fc487bfdb1ab441b3e986c0740c8d1, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
